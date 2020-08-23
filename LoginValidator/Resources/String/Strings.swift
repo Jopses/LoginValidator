@@ -1,5 +1,5 @@
 import Foundation
-// swiftlint:disable identifier_name
+
 enum Strings {
     private static let hostingBundle = Bundle.main
 
@@ -19,4 +19,3 @@ enum Strings {
         return String(format: NSLocalizedString("mustContainFromToSymbols", comment: ""), value1, value2)
     }
 }
-// swiftlint:enabled identifier_name
