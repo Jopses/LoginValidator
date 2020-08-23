@@ -1,0 +1,14 @@
+
+// MARK: - Base
+
+"error" = "Error";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"done" = "Done";
+
+// MARK: - Error
+
+"pleaseFillInTheField" = "Please fill in the field";
+"mustContainFromToSymbols" = "Must contain from %@ to %@ symbols";
+"onlyLatinLettersNumbersMinusAndDotsAreValidForThisField" = "Only latin letters, numbers, minus and dots are valid for this field";
+"loginCannotStartWithANumberDotMinus" = "Login cannot start with a number, dot, minus";
